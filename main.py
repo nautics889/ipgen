@@ -2,6 +2,7 @@
 Created on 26 сент. 2017 г.
 
 @author: Assembler889
+
 '''
 import tkinter
 import random
